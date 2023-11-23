@@ -17,3 +17,5 @@
    - Ensure the website's responsiveness across various devices, such as desktops, tablets, and smartphones. Implement a visually appealing and user-friendly design with cross-browser compatibility to reach a wider audience. Prioritize a seamless user experience to encourage both recruiters and jobseekers to engage with the platform effortlessly.
 
 By incorporating these features, the job portal website will offer a comprehensive solution for recruiters to post job opportunities and for jobseekers to discover and apply for relevant positions, creating a user-friendly and efficient platform for the job market.
+
+Created using HTML, CSS, JS, PHP where recruiters can post job opportunities and jobseekers can apply for the jobs.
