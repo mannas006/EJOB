@@ -1,5 +1,4 @@
-Here's a more professional and detailed documentation for your Job Portal Website project:
-
+ 
 ---
 
 # EJOB
@@ -47,4 +46,4 @@ EJOB provides a user-friendly and efficient platform for recruiters to post job 
 
 ---
 
-Does this cover everything you need for your documentation?
+ 
